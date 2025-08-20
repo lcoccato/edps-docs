@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'EDPS documentation'
+project = 'EDPS'
 copyright = '2025, ESO'
 author = 'Lodovico Coccato'
 release = '1.0'
